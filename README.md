@@ -1,4 +1,4 @@
-# vue-im
+# vue-instant-chat
 
 > A Vue.js project
 
